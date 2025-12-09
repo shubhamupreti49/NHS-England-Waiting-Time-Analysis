@@ -58,7 +58,7 @@ A major technical hurdle was the mismatch between **Workforce Data** (Regional l
 ---
 
 ## 📊 Visuals
-*(Note: Ensure plot images are saved in the `plots/` directory)*
+*(Ensure plot images are saved in the `plots/` directory)*
 
 ### The Efficiency Quadrant
 > *Visualizing the disconnect between staffing inputs and patient outcomes.*
