@@ -58,15 +58,7 @@ A major technical hurdle was the mismatch between **Workforce Data** (Regional l
 ---
 
 ## 📊 Visuals
-*(Ensure plot images are saved in the `plots/` directory)*
-
-### The Efficiency Quadrant
-> *Visualizing the disconnect between staffing inputs and patient outcomes.*
-![Efficiency Quadrant](plots/03_efficiency_quadrant.png)
-
-### The Crisis Curve
-> *The structural break in patient waiting times post-COVID.*
-![Crisis Curve](plots/01_crisis_curve_fixed.png)
+Make sure to check out the animated plots that i generated in R studio using gganimate.
 
 ---
 
